@@ -1,6 +1,7 @@
 import pickle
 from model import train_model
 
+
 def test_model_training():
     model = train_model()
     assert model is not None
