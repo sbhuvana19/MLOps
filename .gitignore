@@ -1,2 +1,10 @@
 model.pkl
 __pycache__/
+.dvc
+mlruns/
+# Ignore the data directory
+data/
+
+# Allow DVC metadata files to be tracked
+!data/*.dvc
+!data/.gitignore
