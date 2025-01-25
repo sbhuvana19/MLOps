@@ -6,3 +6,4 @@ numpy
 flake8
 flask
 joblib
+pytest
