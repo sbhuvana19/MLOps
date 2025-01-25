@@ -1,5 +1,5 @@
-import pickle
-from model import train_model
+# import pickle
+# from model import train_model
 
 
 def test_model_training():
