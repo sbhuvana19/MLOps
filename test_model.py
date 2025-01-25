@@ -3,7 +3,7 @@ from model import train_model
 
 
 def test_model_training():
-    #Made this a placeholder as data is not available only locally
+    # Made this a placeholder as data is not available only locally
     dummy_result = True  # Replace this with your actual test logic
 
     # Dummy assert
