@@ -4,7 +4,7 @@ __pycache__/
 mlruns/
 # Ignore the data directory
 data/
-
+model.joblib
 # Allow DVC metadata files to be tracked
 !data/*.dvc
 !data/.gitignore
